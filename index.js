@@ -17,7 +17,7 @@ console.log(fifaData);
 
 function getFinals(/* code here */) {
 
-    /* code here */
+    /* code here */b
 
 };
 
